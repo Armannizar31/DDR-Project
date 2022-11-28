@@ -1,0 +1,25 @@
+CQRS Explanation
+https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
+https://microservices.io/patterns/data/cqrs.html
+https://www.eventstore.com/cqrs-pattern
+https://medium.com/design-microservices-architecture-with-patterns/cqrs-design-pattern-in-microservices-architectures-5d41e359768c
+
+
+CQRS Illustrated Explanation
+https://www.redhat.com/architect/illustrated-cqrs
+
+
+Pros and Cons of CQRS
+https://www.redhat.com/architect/pros-and-cons-cqrs
+https://betterprogramming.pub/cqrs-software-architecture-pattern-the-good-the-bad-and-the-ugly-e9d6e7a34daf
+
+
+CQRS Case Studies and Reserch Papers
+https://www.researchgate.net/publication/266659115_A_case_study_of_the_variability_consequences_of_the_CQRS_pattern_in_online_business_software
+https://ceur-ws.org/Vol-1036/p86-Rajkovic.pdf
+https://home.agh.edu.pl/~malawski/DebskiSzczepanik-CQRS-IEEE-Software.pdf
+
+
+CQRS Implementation
+https://www.partech.nl/nl/publicaties/2021/05/using-the-cqrs-pattern-in-c-sharp#:~:text=is%20being%20used.-,What%20is%20CQRS%3F,query%20functionality%20returns%20the%20data
+https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
