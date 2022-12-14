@@ -23,3 +23,10 @@ https://home.agh.edu.pl/~malawski/DebskiSzczepanik-CQRS-IEEE-Software.pdf
 CQRS Implementation
 https://www.partech.nl/nl/publicaties/2021/05/using-the-cqrs-pattern-in-c-sharp#:~:text=is%20being%20used.-,What%20is%20CQRS%3F,query%20functionality%20returns%20the%20data
 https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
+
+
+CQRS Video link 
+https://youtu.be/noda1ox6NeA
+https://youtu.be/l09hnKdltto
+https://youtu.be/W_EEKAN9IVU
+https://youtu.be/sthMcMrspCM
