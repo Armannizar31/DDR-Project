@@ -1,0 +1,11 @@
+Intent : The pattern known as CQRS, or Command and Query Responsibility Segregation, divides read from update processes for data storage. CQRS implementation can improve the performance, scalability, and security of your application.
+Applicability : Consider CQRS for the following scenarios:
+Domains where people can work together and access the same information simultaneously. When using CQRS, you can design commands at a level of granularity that reduces merge conflicts at the domain level and allows the command to resolve any conflicts that do occur.
+Situations in which one group of developers can concentrate on the intricate domain model that makes up the write model while another group concentrates on the read model and user interfaces.
+Scenarios in which it is anticipated that the system will change over time and may contain numerous versions of the model, or in which business rules are frequently modified.
+Integration with other systems, particularly when used in conjunction with event sourcing, should ensure that the availability of one subsystem is not adversely affected by the temporary failure of another.
+Related Patterns : 
+The Database per Service pattern creates the need for this pattern.
+The API Composition pattern is an alternative solution.
+The Domain event pattern generates the events.
+CQRS is often used with Event sourcing.
